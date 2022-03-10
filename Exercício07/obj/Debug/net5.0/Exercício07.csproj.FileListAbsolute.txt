@@ -1,0 +1,15 @@
+C:\Users\facec.lab04\Desktop\09-03\Exercicios-09-03\Exercício07\obj\Debug\net5.0\Exercício07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\Desktop\09-03\Exercicios-09-03\Exercício07\obj\Debug\net5.0\Exercício07.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\Desktop\09-03\Exercicios-09-03\Exercício07\obj\Debug\net5.0\Exercício07.AssemblyInfo.cs
+C:\Users\facec.lab04\Desktop\09-03\Exercicios-09-03\Exercício07\obj\Debug\net5.0\Exercício07.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\Desktop\09-03\Exercicios-09-03\Exercício07\bin\Debug\net5.0\Exercício07.exe
+C:\Users\facec.lab04\Desktop\09-03\Exercicios-09-03\Exercício07\bin\Debug\net5.0\Exercício07.deps.json
+C:\Users\facec.lab04\Desktop\09-03\Exercicios-09-03\Exercício07\bin\Debug\net5.0\Exercício07.runtimeconfig.json
+C:\Users\facec.lab04\Desktop\09-03\Exercicios-09-03\Exercício07\bin\Debug\net5.0\Exercício07.runtimeconfig.dev.json
+C:\Users\facec.lab04\Desktop\09-03\Exercicios-09-03\Exercício07\bin\Debug\net5.0\Exercício07.dll
+C:\Users\facec.lab04\Desktop\09-03\Exercicios-09-03\Exercício07\bin\Debug\net5.0\ref\Exercício07.dll
+C:\Users\facec.lab04\Desktop\09-03\Exercicios-09-03\Exercício07\bin\Debug\net5.0\Exercício07.pdb
+C:\Users\facec.lab04\Desktop\09-03\Exercicios-09-03\Exercício07\obj\Debug\net5.0\Exercício07.dll
+C:\Users\facec.lab04\Desktop\09-03\Exercicios-09-03\Exercício07\obj\Debug\net5.0\ref\Exercício07.dll
+C:\Users\facec.lab04\Desktop\09-03\Exercicios-09-03\Exercício07\obj\Debug\net5.0\Exercício07.pdb
+C:\Users\facec.lab04\Desktop\09-03\Exercicios-09-03\Exercício07\obj\Debug\net5.0\Exercício07.genruntimeconfig.cache
